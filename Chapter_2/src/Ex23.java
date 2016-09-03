@@ -20,7 +20,7 @@ public class Ex23 {
 		double decimalFix = (int)(100 * cost);
 		double costTruncated = decimalFix / 100;
 		
-		System.out.println("The cost of driving is " + costTruncated);
+		System.out.println("The cost of driving is $" + costTruncated);
 		
 	}
 
