@@ -12,7 +12,7 @@ public class Ex4 {
 		
 		
 		
-		System.out.println("a    a" + a + 2 + "     a" + a + 3);
+		System.out.println("a    a" + a + 2 + "   a" + a + 3);
 		System.out.println(first + "     " + (int)Math.pow(first,2) + "     " +(int)Math.pow(first,  3));
 		System.out.println(second + "     " + (int)Math.pow(second,2) + "     " + (int)Math.pow(second,  3));
 		System.out.println(third + "     " + (int)Math.pow(third,2) + "     " + (int)Math.pow(third,  3));
